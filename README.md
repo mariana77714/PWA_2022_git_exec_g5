@@ -1,15 +1,15 @@
-# PWA_2021_git_exec_g3
+# PWA_2022_git_exec_g5
 
-## Exercício com o Git - Grupo 3
+## Exercício com o Git - Grupo 5
 
 ### Definição das tarefas
 
-(g3) Alínea 1: Ilídio Martins | ilidio.martins@gmail.com
+(g5) Alínea 1: Bruno Moreira | bem@outlook.pt
 
-(g3) Alínea 2: Jailson Costa | jailson.da.luz.costa@gmail.com
+(g5) Alínea 2: Ornélio Jotamo | osjotamo@gmail.com
 
-(g3) Alínea 3: Egon Holtz | egonholtz@gmail.com
+(g5) Alínea 3: Mariana Silva | mariana.siqueira.u@gmail.com
 
-(g3) Alínea 4: Duarte Cota | duartenunocota@gmail.com
+(g5) Alínea 4: Rogério Dança Abílio Mandala | al77492@alunos.utad.pt
 
-(g3) Alínea 5: Gervásio Caetano | gac.mendoso@gmail.com
+(g5) Alínea 5: João Rodrigues | joaorodrigues.mm@gmail.com
