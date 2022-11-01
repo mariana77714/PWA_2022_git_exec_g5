@@ -1,4 +1,35 @@
-.bloco2 img {
+.bloco2 img
+{
     margin: 10px;
     float: left;
+}
+
+body
+{
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+h1, h2 
+{
+    margin: 0px;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+.bloco1
+{
+    background-color: orange;
+}
+
+.bloco2
+{
+    background-color: green;
+}
+
+.bloco3
+{
+    background-color: red;
 }
